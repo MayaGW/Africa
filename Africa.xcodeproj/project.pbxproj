@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		816649AB2B8DD4730066C17D /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816649AA2B8DD4730066C17D /* AnimalGridItemView.swift */; };
 		81C8FD612B866D7600D95D41 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C8FD602B866D7600D95D41 /* AfricaApp.swift */; };
 		81C8FD632B866D7600D95D41 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C8FD622B866D7600D95D41 /* ContentView.swift */; };
 		81C8FD652B866D7800D95D41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81C8FD642B866D7800D95D41 /* Assets.xcassets */; };
@@ -50,6 +51,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		816649AA2B8DD4730066C17D /* AnimalGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGridItemView.swift; sourceTree = "<group>"; };
 		81C8FD5D2B866D7600D95D41 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C8FD602B866D7600D95D41 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		81C8FD622B866D7600D95D41 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -202,6 +204,7 @@
 				81D5F2BE2B891D380085C770 /* VideoPlayerView.swift */,
 				81D5F2C52B8A66CA0085C770 /* MapAnnotationView.swift */,
 				81D5F2C72B8A6E4F0085C770 /* MotionAnimationView.swift */,
+				816649AA2B8DD4730066C17D /* AnimalGridItemView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				81D5F2BB2B88EA130085C770 /* VideoModel.swift in Sources */,
 				81C8FD932B86799100D95D41 /* GalleryView.swift in Sources */,
 				81D5F2C42B8A37150085C770 /* LocationModel.swift in Sources */,
+				816649AB2B8DD4730066C17D /* AnimalGridItemView.swift in Sources */,
 				81D5F2B12B87EA8A0085C770 /* InsetGalleryView.swift in Sources */,
 				81D5F2BD2B88EA860085C770 /* VideoListItemView.swift in Sources */,
 				81D5F2A52B87C0DB0085C770 /* CodableBundleExtension.swift in Sources */,
